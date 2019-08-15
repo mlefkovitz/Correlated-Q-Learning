@@ -14,7 +14,7 @@ In a "soccer" environment with 2 players, one ball, and 8 grid spaces, each play
 
 [Full Report](/Project3-gth836x.pdf)
 
-## Project 3
+## The Project
 Python Files:
 - soccerpdvelez.py
 - testbenchpdvelez.py
